@@ -1,2 +1,3 @@
 # hello-world
 Printing Assignment
+Hi_my_name_is_Will_Kimball_I'm_a_freshman_that_grauduated_from_Golden_Highschool_My_favorite_food_is_Chicken_tica_mansala_and_my _favorite_tv_show_is_Arrow
